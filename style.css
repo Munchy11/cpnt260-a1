@@ -1,0 +1,107 @@
+h1 {
+  color: black
+}
+
+h2{
+  color: Black
+} 
+
+  p {
+    color: black
+  }
+    
+  p{ font-size: 1.8em
+  }
+ 
+  h2{
+font-family: 'Raleway',sans-serif;
+   }
+
+  a {
+  background-color: white;
+  transition: background-color 0.20s;
+}
+
+a:hover {
+  background-color: yellow;
+}  
+.wrapper {
+    max-width: 100ch;
+    margin: auto;
+  }
+h1 {
+  font-size: 4rem;
+  font-family: 'Cormorant Garamond', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Playfair Display SC', serif;
+}
+p {
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  padding: 50px;
+  text-align: center;
+  }
+h2 {
+  background-color: white ;
+  color: black ;
+  padding: 0px;
+  text-align: center;
+  font-size: 1.8em
+}
+p {
+  background-color: white;
+  color: black;
+  padding: 50px;
+  text-align: center;
+}
+
+h3 {
+  background-color: white;
+  color: black;
+  padding: 45px;
+  text-align: center;
+}
+
+h3{
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display SC', serif;
+  font-family: 'Raleway', sans-serif;
+  
+}
+
+p {
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display SC', serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+li{
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display SC', serif;
+  font-family: 'Raleway', sans-serif;
+  
+    background-color: white;
+    color: black;
+    padding: 50px;
+    text-align: center;
+    font-size: 1.7em
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
