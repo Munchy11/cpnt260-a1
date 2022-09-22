@@ -6,4 +6,4 @@
 ## Author Name:
 - Lucas Muenchrath
 ## Github Page:
-- 
+- https://munchy11.github.io/cpnt260-a1/
